@@ -14,7 +14,7 @@
         } else {
             mysqli_query($conn, "INSERT INTO `user_form`(name, email, password) VALUES('$name','$email','$pass')") or die('Query failed');
             $message[] = 'registration successfully!!';
-            header('location:login.php')
+            header('location:login.php');
         }
     }
 
