@@ -61,7 +61,7 @@
 
             <div class="products">
                 <h1 class="heading"> 
-                    latest products
+                    EXCLUSIVE PRODUCTS
 
                 </h1>
 
