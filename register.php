@@ -52,6 +52,8 @@
             <p>Already have an account? <a href="login.php">login now</a></p>
         </form>
     </div>  
+
+  
     
 
     
